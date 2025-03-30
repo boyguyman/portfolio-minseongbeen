@@ -60,6 +60,6 @@
 ## 📬 Contact
 
 - 📧 Email: sungbinmin1@gmail.com  
-- 🐙 GitHub:  [https://github.com/boyguyman]
+- 🐙 GitHub:  [https://github.com/boyguyman](https://github.com/boyguyman)
 
 ---
